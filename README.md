@@ -1,4 +1,4 @@
-# Sequelize CLI, Associations
+# Sequelize CLI and Associations explained using Sequelize 6+
 
 ```bash
 # install Sequelize globally
